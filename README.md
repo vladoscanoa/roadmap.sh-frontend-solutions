@@ -4,6 +4,10 @@ This repository contains front-end projects built following the [roadmap.sh](htt
 
 ## Projects List
 
+### 🟢 Beginner
+
+1. [Single Page CV](https://roadmap.sh/projects/single-page-cv)  
+
 Click any of the images below to view the readme and live demo of the project.
 
 <div align="center">

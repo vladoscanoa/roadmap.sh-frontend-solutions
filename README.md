@@ -6,7 +6,8 @@ This repository contains front-end projects built following the [roadmap.sh](htt
 
 ### 🟢 Beginner
 
-1. [Single Page CV](https://roadmap.sh/projects/single-page-cv)  
+1. [Single Page CV](https://roadmap.sh/projects/single-page-cv) 
+2. [Single Page CV](https://roadmap.sh/projects/single-page-cv)  
 
 Click any of the images below to view the readme and live demo of the project.
 
@@ -19,10 +20,10 @@ Click any of the images below to view the readme and live demo of the project.
     </a>
   </div>
   <div style="display: inline-block; width: 30%; margin: 1%;">
-    <a href="/Frontend Projects/02/">
-      <img src="./assets/images/02.png" alt="Project 2" style="width: 100%;" />
+    <a href="/Beginner/02-basic-HTML-website/">
+      <img src="./Beginner/02-basic-HTML-website/designer/image.png" alt="Basic HTML" style="width: 100%;" />
       <br />
-      <strong>Project 2</strong>
+      <strong>Basic HTML Website</strong>
     </a>
   </div>
   
